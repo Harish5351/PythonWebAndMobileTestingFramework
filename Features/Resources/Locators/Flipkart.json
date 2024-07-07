@@ -1,0 +1,6 @@
+{
+  "Account": "//android.widget.TextView[@text='replace_text']",
+  "LogIn": "//android.widget.TextView[@text='replace_text']",
+  "x": "//android.widget.ImageView[@resource-id='com.flipkart.android:id/custom_back_icon']",
+  "Home": "//android.widget.TextView[@text='replace_text']"
+}

@@ -1,0 +1,19 @@
+{
+  "executionMode": "Web",
+  "userName": "username",
+  "accessKey": "access_key",
+  "BS_browserName": "Chrome",
+  "BS_browserVersion": "latest",
+  "browserName": "Chrome",
+  "deviceType": "Android",
+  "androidVersion": "10",
+  "android_DeviceName": "Redmi 9A",
+  "android_udid": "EYQS6HDQDM5X8THY",
+  "android_appPackage_cal": "com.miui.calculator",
+  "android_appActivity_cal": "com.miui.calculator.cal.CalculatorActivity",
+  "android_appPackage": "com.flipkart.android",
+  "android_appActivity": "com.flipkart.android.activity.HomeFragmentHolderActivity",
+  "android_automationName": "UiAutomator2",
+  "android_platformName": "Android",
+  "flipkart_URL": "https://www.flipkart.com/"
+}

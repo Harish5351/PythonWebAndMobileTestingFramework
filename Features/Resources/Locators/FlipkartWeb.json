@@ -1,0 +1,22 @@
+{
+  "text": "//input[@name='q']",
+  "LoginButton": "//a[text()='Login']",
+  "pagination_result": "(//span[@class='BUOuZu'])[1]",
+  "element": "//label[@class='uu79Xy']",
+  "item": "//a[@class='RCafFg -3yGLs']",
+  "COMPARE": "//span[text()='COMPARE']",
+  "Items": "//div[@class='UYzoi9']",
+  "required_element": "//div[@class='yKfJKb row']",
+  "AddToCart": "//button[normalize-space()='Add to cart']",
+  "PLACE_ORDER": "//span[text()='Place Order']",
+  "values": "//span[@class='LAlF6k re6bBo']",
+  "+": "//button[text()='+']",
+  "pup_up_message": "//div[@class='eIDgeN']",
+  "remove": "//div[text()='Remove']",
+  "Remove": "(//div[text()='Remove'])[1]",
+  "MissingCartItems": "//div[text()='Missing Cart items?']",
+  "ItemsAddedMessage": "//div[text()='Login to see the items you added previously']",
+  "Login": "//span[text()='Login']",
+  "GoToCart": "//button[normalize-space()='GO TO CART']",
+  "Cancel": "(//div[text()='Cancel'])[1]"
+}
